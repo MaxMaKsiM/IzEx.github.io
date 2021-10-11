@@ -1,0 +1,61 @@
+body{
+    background-image: url("1.jpg");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+h1 {
+    color:whitesmoke ;
+    text-align: center;
+    margin-top: 80px;
+        font-family: 'icons';
+        src: url('../font/icons.eot?50013275');
+        src: url('../font/icons.eot?50013275#iefix') format('embedded-opentype'),
+             url('../font/icons.woff2?50013275') format('woff2'),
+             url('../font/icons.woff?50013275') format('woff'),
+             url('../font/icons.ttf?50013275') format('truetype'),
+             url('../font/icons.svg?50013275#icons') format('svg');
+        font-weight: normal;
+        font-style: normal;
+      
+}
+
+
+p {
+    color:whitesmoke;
+    text-align: left;
+    margin-top: 5%;
+    font-size: 150%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'icons';
+    src: url('../font/icons.eot?50013275');
+    src: url('../font/icons.eot?50013275#iefix') format('embedded-opentype'),
+         url('../font/icons.woff2?50013275') format('woff2'),
+         url('../font/icons.woff?50013275') format('woff'),
+         url('../font/icons.ttf?50013275') format('truetype'),
+         url('../font/icons.svg?50013275#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.links{
+    margin-left: 13%;
+    margin-top: 11%;
+}
+
+h3{
+    margin-left: 47%;
+}
+h4{
+    text-align: center;
+    color:whitesmoke;
+}
+h2{
+    text-align: center;
+    color:whitesmoke;
+
+}
